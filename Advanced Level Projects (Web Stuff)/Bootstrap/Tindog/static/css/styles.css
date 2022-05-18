@@ -50,8 +50,6 @@ div.row.container-fluid{
     width: 400px;
 }
 
-
-
 .first-section{
     padding-top: 160px;
     padding-left: 70px;
@@ -67,7 +65,7 @@ div.row.container-fluid{
     padding-bottom: 15px;
 }
 
-i:hover{
+i.fa-solid:hover{
     color: #ff4c68;
 }
 
@@ -89,4 +87,11 @@ h3{
 
 p{
     color: #8f8f8f;
+}
+
+.testimonials{
+    background-color: #ff4c68;
+    padding: 7% 10%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
