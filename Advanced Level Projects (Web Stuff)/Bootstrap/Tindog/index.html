@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 
 <head>
   <meta charset="utf-8">
@@ -86,26 +86,40 @@
   <!-- Testimonials -->
 
   <section class="text-center">
-    <div class="testimonials">
-    <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
-    <img src="static/images/dog-img.jpg" alt="dog-profile">
-    <br>
-    <em>Pebbles, New York</em>
-
-    <!-- <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
-    <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
-    <em>Beverly, Illinois</em> -->
+    <div id="test-carousel" class="testimonials carousel slide" data-ride="false">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
+          <img class="test-img" src="static/images/dog-img.jpg" alt="dog-profile">
+          <br>
+          <em>Pebbles, New York</em>
+        </div>
+        <div class="carousel-item">
+          <h2>My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
+          <img class="test-img" src="static/images/lady-img.jpg" alt="lady-profile">
+          <br>
+          <em>Beverly, Illinois</em>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#test-carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#test-carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
   </section>
 
 
   <!-- Press -->
 
-  <section id="press">
-    <img src="static/images/techcrunch.png" alt="tc-logo">
-    <img src="static/images/tnw.png" alt="tnw-logo">
-    <img src="static/images/bizinsider.png" alt="biz-insider-logo">
-    <img src="static/images/mashable.png" alt="mashable-logo">
+  <section class="text-center" id="press">
+    <img class="press-logo" src="static/images/techcrunch.png" alt="tc-logo">
+    <img class="press-logo" src="static/images/tnw.png" alt="tnw-logo">
+    <img class="press-logo" src="static/images/bizinsider.png" alt="biz-insider-logo">
+    <img class="press-logo" src="static/images/mashable.png" alt="mashable-logo">
 
   </section>
 
