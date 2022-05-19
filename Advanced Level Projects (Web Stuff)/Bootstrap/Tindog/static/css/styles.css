@@ -123,19 +123,18 @@ h2{
 }
 
 #pricing{
-    padding-top: 7%;
+    padding-top: 30px;
     padding-bottom: 5%;
 }
 
 .card-container{
     padding-left: 3%;
     padding-right: 3%;
-    padding-top: 5%;
+    padding-top: 3%;
 }
 
 .card-deck{
-    padding-top: 4%;
-    padding-bottom: 3%;
+    padding-bottom: 30px;
     padding-left: 3%;
     padding-right: 3%;
 }
