@@ -142,3 +142,56 @@ h2{
 .btn-padding{
     padding-top: 40px;
 }
+
+@media (max-width: 990px){
+    .first-section{
+        text-align: center;
+    }
+
+    .rotateMobile {
+        transform:rotate(0deg);
+        -ms-transform:rotate(0deg); /* IE 9 */
+        -moz-transform:rotate(0deg); /* Firefox */
+        -webkit-transform:rotate(0deg); /* Safari and Chrome */
+        -o-transform:rotate(0deg);
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .col-lg-6.img{
+        height: 100%;
+        padding-bottom: 50px;
+    }
+
+}
+#cta{
+    background-color:  #ff4c68;
+    padding-bottom: 40px;
+}
+
+.cta{
+    color: white;
+    padding-top: 8%;
+    font-size: 2.4rem;
+}
+
+#footer{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.contact-icon{
+    color: #ef8172;
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+i.contact-icon:hover{
+    color: #ff4c68;
+}
+
+.footer-font{
+    color: #ef8172;
+}
