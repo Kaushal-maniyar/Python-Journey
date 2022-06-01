@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/index')
 def index():
     blog_url = os.environ.get('URL')
     response = requests.get(blog_url)
@@ -13,7 +13,17 @@ def index():
     return render_template('index.html', blogs=all_blogs)
 
 
-@app.route('/read/<int:id_wanted>')
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
+
+
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+
+@app.route('/<int:id_wanted>')
 def post(id_wanted):
     blog_url = os.environ.get('URL')
     response = requests.get(blog_url)

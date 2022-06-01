@@ -1,3 +1,21 @@
+body::-webkit-scrollbar { width: 0; height: 0;}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-bottom:30px;
+}
+
+p{
+    color: #8f8f8f;
+}
 #title{
     background-color: #ff4c68;
     width: 100%;
@@ -17,7 +35,6 @@ a.navbar-brand{
     font-weight: bold;
 }
 
-body::-webkit-scrollbar { width: 0; height: 0;}
 
 .nav-item{
     padding-left : 20px;
@@ -81,28 +98,12 @@ i.fa-solid:hover{
     padding-bottom: 100px;
 }
 
-h3{
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 1.5rem;
-}
-
-p{
-    color: #8f8f8f;
-}
 
 .testimonials{
     background-color: #ff4c68;
     padding: 7% 15%;
     color: white;
     font-family: 'Roboto', sans-serif;
-}
-
-h2{
-    font-weight: bold;
-    font-size: 3rem;
-    line-height: 1.5;
-    padding-bottom:30px;
 }
 
 .test-img{
@@ -164,6 +165,7 @@ h2{
     }
 
 }
+
 #cta{
     background-color:  #ff4c68;
     padding-bottom: 40px;
