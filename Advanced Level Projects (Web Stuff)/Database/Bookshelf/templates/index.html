@@ -1,0 +1,25 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block title %}Library{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+<h1>My Library</h1>
+        {% if books == [] %}
+            <H3>Library is empty</H3>
+        {% else %}
+        <ul>
+            {%for i in range(0, len)%}
+                <H3><li><a href="{{url_for('delete', book_id=books[i].id)}}">Delete</a>&nbsp;&nbsp;{{books[i].title}} - {{books[i].author}} - {{books[i].rating}}&nbsp;&nbsp;<a href="{{url_for('edit', book_id=books[i].id)}}">Edit Rating</a></li></H3>
+            {%endfor%}
+        </ul>
+        {% endif %}
+
+        <a href="/add">Add New Book</a>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
