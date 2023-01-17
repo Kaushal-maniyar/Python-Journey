@@ -5,43 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77943c63-84fb-44eb-a3ff-d667b89788f7" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/books-collection.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/templates/edit_rating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Bookshelf/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/cafe-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/templates/cafes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/templates/denied.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Flask-WTF/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Web Foundation/HTML Form/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Web Foundation/HTML Form/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Web Foundation/HTML Form/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Web Foundation/HTML Form/templates/notlogin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Bootstrap/My Blog/templates/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Higher or Lower/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Higher or Lower/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Journey.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Journey.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/movie-collection.db" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/instance/movie-collection.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/select.html" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/templates/message.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -80,13 +53,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "last_opened_file_path": "C:/Users/TWINKLE/Desktop/Redis",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TWINKLE/AppData/Local/Programs/Python/Python311&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python Journey\Advanced Level Projects (Web Stuff)\Web Foundation\HTML Form\templates" />
@@ -336,9 +309,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Python Journey\venv1\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/main.py" />
@@ -350,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Journey" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,11 +331,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Flask/Coffee and WIFI/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Level Projects (Web Stuff)/Database/Movie Project/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,22 +394,22 @@
       <item itemvalue="Python.ISS Tracker" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.flight_search" />
-      <item itemvalue="Python.index" />
       <item itemvalue="Python.main " />
       <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.index" />
       <item itemvalue="Python.main2" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.server (1)" />
       <item itemvalue="Python.server (2)" />
-      <item itemvalue="Python.server" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.practice" />
         <item itemvalue="Python.main2" />
         <item itemvalue="Python.server (2)" />
         <item itemvalue="Python.index" />
-        <item itemvalue="Python.server (1)" />
       </list>
     </recent_temporary>
   </component>
