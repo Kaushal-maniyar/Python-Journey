@@ -8,20 +8,14 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 {% endblock %}
 
-{% block title %}Message{% endblock %}
+{% block title %}Select Movie{% endblock %}
 
 {% block content %}
-<div class="content">
-    <h1 class="heading">Success</h1>
-    <div class="row">
-    <div class="col-sm-12 col-md-8">
+<div class="container">
+    <h1 class="heading">Select Movie</h1>
+  <p>
+    <a href="#"> MOVIE TITLE - MOVIE RELEASE DATE</a>
+  </p>
 
-      <h1>{{message}}</h1>
-
-      <br>
-      <a href="/" class="button">Home Page</a>
-
-    </div>
-  </div>
 </div>
 {% endblock %}
